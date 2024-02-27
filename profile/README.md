@@ -1,7 +1,8 @@
 # Our Projects:
 
-### - Niko's Nextbots
-A Nico's Nextbots recreation in Minecraft.
+- **Niko's Nextbots**
+
+   A Nico's Nextbots recreation in Minecraft.
 
 
 
@@ -24,5 +25,5 @@ Our goal is to provide as accurate experience as possible while also allowing ou
 # Upcoming Projects
 
 
-### - Regretevator
-### - Running From The Internet
+- **Regretevator**
+- **Running From The Internet**
